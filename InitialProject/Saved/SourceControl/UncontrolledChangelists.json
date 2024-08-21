@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/RaffP/Documents/GitHub/UE5Udemy/InitialProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/4J/10TIHNO38YJLA0U1QJEF6X.uasset",
+				"C:/Users/RaffP/Documents/GitHub/UE5Udemy/InitialProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/QS/2G1O890D6Q9JV2O5BJSIEE.uasset",
+				"C:/Users/RaffP/Documents/GitHub/UE5Udemy/InitialProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WW/2HAECU41WL20324TRDYBXM.uasset"
+			]
+		}
+	]
+}
