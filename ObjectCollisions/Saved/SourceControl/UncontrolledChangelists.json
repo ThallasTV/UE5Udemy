@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/RaffP/Documents/GitHub/UE5Udemy/ObjectCollisions/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/RaffP/Documents/GitHub/UE5Udemy/ObjectCollisions/Content/StarterContent/Maps/Minimal_Default.umap"
+				"C:/Users/RaffP/Documents/GitHub/UE5Udemy/ObjectCollisions/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/RaffP/Documents/GitHub/UE5Udemy/ObjectCollisions/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"C:/Users/RaffP/Documents/GitHub/UE5Udemy/ObjectCollisions/Content/StarterContent/Blueprints/BP_Projectile.uasset"
 			]
 		}
 	]
