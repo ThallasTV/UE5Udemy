@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Udungeon",
+			"Path": "..\\Source\\Udungeon.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UdungeonEditor",
+			"Path": "..\\Source\\UdungeonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

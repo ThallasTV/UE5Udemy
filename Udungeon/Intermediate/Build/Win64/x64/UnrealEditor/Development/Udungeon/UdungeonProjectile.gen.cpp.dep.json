@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\raffp\\documents\\github\\ue5udemy\\udungeon\\intermediate\\build\\win64\\unrealeditor\\inc\\udungeon\\uht\\udungeonprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\raffp\\documents\\github\\ue5udemy\\udungeon\\intermediate\\build\\win64\\x64\\udungeoneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\raffp\\documents\\github\\ue5udemy\\udungeon\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\udungeon\\definitions.udungeon.h",
+            "c:\\users\\raffp\\documents\\github\\ue5udemy\\udungeon\\source\\udungeon\\udungeonprojectile.h",
+            "c:\\users\\raffp\\documents\\github\\ue5udemy\\udungeon\\intermediate\\build\\win64\\unrealeditor\\inc\\udungeon\\uht\\udungeonprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
